@@ -9,6 +9,10 @@ yarn electron:package
 yarn electron:make
 ```
 
+## Capacitor android node server
+
+- [android node server](https://code.janeasystems.com/nodejs-mobile/android/node-project-folder)
+
 ## Improvements of qwik electron build are welcome
 
 ## Questions are
