@@ -1,4 +1,23 @@
-# Qwik City App ⚡️
+# Qwik City Electron App (qwik, electron-vite, electron-forge, capacitor)⚡️
+
+## Commands
+
+```shell
+yarn electron:dev
+yarn electron:build
+yarn electron:package
+yarn electron:make
+```
+
+## Improvements of qwik electron build are welcome
+
+## Questions are
+
+1. How to fix build with electron-vite directly? Currently used only for dev.
+2. How to fix static resources without electron-serve package?
+3. How to fix service-worker cache for custom scheme "app"?
+4. Is there a better prefetchStrategy for electron app?
+5. Is there a better bundling strategy for electron app?
 
 - [Qwik Docs](https://qwik.builder.io/)
 - [Discord](https://qwik.builder.io/chat)
